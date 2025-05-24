@@ -1,0 +1,118 @@
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.exe
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.deps.json
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.runtimeconfig.json
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.pdb
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Copms.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.copm_connect.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Login.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Questions.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Tchr.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Properties.Resources.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.GenerateResource.cache
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.AssemblyInfoInputs.cache
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.AssemblyInfo.cs
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.CoreCompileInputs.cache
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.sourcelink.json
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.CopyComplete
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\refint\Quiz 2.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.pdb
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.genruntimeconfig.cache
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\ref\Quiz 2.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.tchr_strt_quiz.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.quz_tek.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.AssemblyReference.cache
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.CodeDom.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.IO.Abstractions.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.Management.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\TestableIO.System.IO.Abstractions.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Form1.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.room.resources
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Interop.NetFwTypeLib.dll
+D:\My Pride\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.ResolveComReference.cache
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\BouncyCastle.Crypto.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.barcodes.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.bouncy-castle-connector.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.forms.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.io.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.kernel.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.layout.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.pdfa.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.sign.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.styledxmlparser.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.svg.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.commons.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itextsharp.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Logging.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Options.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Primitives.dll
+D:\My Pride\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Newtonsoft.Json.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.AssemblyReference.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Interop.NetFwTypeLib.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.ResolveComReference.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Copms.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.copm_connect.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Login.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Questions.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.quz_tek.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.room.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.Tchr.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.tchr_strt_quiz.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Properties.Resources.resources
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.GenerateResource.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.AssemblyInfoInputs.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.AssemblyInfo.cs
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.CoreCompileInputs.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.sourcelink.json
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\refint\Quiz 2.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.pdb
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.exe
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.deps.json
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.runtimeconfig.json
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Quiz 2.pdb
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.barcodes.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.bouncy-castle-connector.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.forms.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.io.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.kernel.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.layout.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.pdfa.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.sign.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.styledxmlparser.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.svg.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\itext.commons.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Logging.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Options.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Extensions.Primitives.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Newtonsoft.Json.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.CodeDom.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.IO.Abstractions.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\System.Management.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\TestableIO.System.IO.Abstractions.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\My Pride\Quiz 2\Quiz 2\bin\Release\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.csproj.CopyComplete
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz 2.genruntimeconfig.cache
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\ref\Quiz 2.dll
+D:\My Pride\Quiz 2\Quiz 2\obj\Release\net8.0-windows10.0.17763.0\Quiz_2.Formss.observv.resources

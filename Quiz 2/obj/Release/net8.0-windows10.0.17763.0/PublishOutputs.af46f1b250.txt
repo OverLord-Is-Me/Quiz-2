@@ -1,0 +1,33 @@
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.exe
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.deps.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.runtimeconfig.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.pdb
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Windows.SDK.NET.dll
+C:\Users\OverLord\Desktop\builds\Quiz\WinRT.Runtime.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.barcodes.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.bouncy-castle-connector.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.forms.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.io.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.kernel.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.layout.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.pdfa.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.sign.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.styledxmlparser.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.svg.dll
+C:\Users\OverLord\Desktop\builds\Quiz\itext.commons.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.Logging.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.Options.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Extensions.Primitives.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Newtonsoft.Json.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.CodeDom.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.IO.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.Management.dll
+C:\Users\OverLord\Desktop\builds\Quiz\TestableIO.System.IO.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\OverLord\Desktop\builds\Quiz\runtimes\win\lib\net8.0\System.Management.dll

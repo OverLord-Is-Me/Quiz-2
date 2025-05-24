@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\My Pride\Quiz 2\Quiz 2\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Formss\copms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\copm_connect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\observv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\questions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\quz_tek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\tchr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formss\tchr_strt_quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Formss\quz_tek.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

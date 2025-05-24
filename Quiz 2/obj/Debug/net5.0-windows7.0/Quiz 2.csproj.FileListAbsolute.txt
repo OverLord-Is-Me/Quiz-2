@@ -1,0 +1,13 @@
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.csproj.AssemblyReference.cache
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Formss.copms.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Formss.copm_connect.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Login.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Formss.questions.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Formss.tchr.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz_2.Properties.Resources.resources
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.csproj.GenerateResource.cache
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.AssemblyInfoInputs.cache
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.AssemblyInfo.cs
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.csproj.CoreCompileInputs.cache
+D:\My Pride\Quiz 2\obj\Debug\net5.0-windows7.0\Quiz 2.sourcelink.json

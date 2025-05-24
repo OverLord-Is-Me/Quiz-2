@@ -1,0 +1,7 @@
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.exe
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.deps.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.runtimeconfig.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.pdb
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Windows.SDK.NET.dll
+C:\Users\OverLord\Desktop\builds\Quiz\WinRT.Runtime.dll
